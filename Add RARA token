@@ -1,0 +1,19 @@
+
+{
+    "website": "https://www.rara.farm",
+    "published_on": "2021-07-08",
+    "links": {
+        "telegram": "https://t.me/RARA_Global"
+        "twitter": "https://twitter.com/RARA_NFT"
+    },
+    "overview": {
+        "en": "The NFT value discovery system where amazing NFTs go viral and get discovered.",
+        "zh": "NFT价值发现系统。"
+    },
+    "symbol": "RARA",
+    "initial_price": {
+        "USD": "1.0 USD",
+        "ETH": "0.0005 ETH"
+    },
+    "whitepaper": "https://doc.rara.farm",
+    "address": "0x83d0e7ddd6208ec6df83807660024cbb7878b685"
